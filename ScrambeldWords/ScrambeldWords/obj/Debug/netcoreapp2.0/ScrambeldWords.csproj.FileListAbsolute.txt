@@ -1,0 +1,11 @@
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/bin/Debug/netcoreapp2.0/ScrambeldWords.deps.json
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/bin/Debug/netcoreapp2.0/ScrambeldWords.runtimeconfig.json
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/bin/Debug/netcoreapp2.0/ScrambeldWords.runtimeconfig.dev.json
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/bin/Debug/netcoreapp2.0/ScrambeldWords.dll
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/bin/Debug/netcoreapp2.0/ScrambeldWords.pdb
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/obj/Debug/netcoreapp2.0/ScrambeldWords.csprojResolveAssemblyReference.cache
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/obj/Debug/netcoreapp2.0/ScrambeldWords.csproj.CoreCompileInputs.cache
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/obj/Debug/netcoreapp2.0/ScrambeldWords.AssemblyInfoInputs.cache
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/obj/Debug/netcoreapp2.0/ScrambeldWords.AssemblyInfo.cs
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/obj/Debug/netcoreapp2.0/ScrambeldWords.dll
+/Users/seppi/Projects/ScrambeldWords/ScrambeldWords/obj/Debug/netcoreapp2.0/ScrambeldWords.pdb
